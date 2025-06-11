@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jun 11 14:28:32 UTC 2025","Wed Jun 11 14:28:32 UTC 2025","101","","org.example.ws.EchoClientTest","","org.example.ws.EchoClientTest","testConnect","Успешное подключение к WebSocket серверу",""
+"passed","Wed Jun 11 14:28:31 UTC 2025","Wed Jun 11 14:28:32 UTC 2025","669","","org.example.ws.EchoClientTest","","org.example.ws.EchoClientTest","testSendMessageWithError","Обработка JSON с ошибкой от сервера",""
+"passed","Wed Jun 11 14:28:32 UTC 2025","Wed Jun 11 14:28:32 UTC 2025","115","","org.example.ws.EchoClientTest","","org.example.ws.EchoClientTest","testSendMessage","Отправка сообщения и получение эхо-ответа",""
+"passed","Wed Jun 11 14:28:32 UTC 2025","Wed Jun 11 14:28:32 UTC 2025","95","","org.example.ws.EchoClientTest","","org.example.ws.EchoClientTest","testClose","Успешное закрытие WebSocket соединения",""
